@@ -26,6 +26,68 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_MAtznk": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_Q8TeTx": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_yX8y3b": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_b6mTkn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_qC6f4c": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_Q8TeTx",
+        "logo_yX8y3b",
+        "logo_b6mTkn",
+        "logo_qC6f4c"
+      ],
+      "custom_css": [
+        ".logo-list__item {height: 90px; background-color: #f0f0f0;}"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "<h4>Gesehen am :</h4>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "feature-chart": {
       "type": "feature-chart",
       "blocks": {
@@ -226,6 +288,7 @@
   },
   "order": [
     "image_with_text_overlay_wWCeii",
+    "logo_list_MAtznk",
     "feature-chart",
     "faq"
   ]
