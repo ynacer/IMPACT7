@@ -282,6 +282,14 @@
             "max_width": 500
           }
         },
+        "image_TnbHpk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flash_Sale_5.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "variant_picker_cwXCT6": {
           "type": "variant_picker",
           "settings": {
@@ -322,6 +330,7 @@
         "price_NDxK3z",
         "liquid_RfBme4",
         "image_4PHg7g",
+        "image_TnbHpk",
         "variant_picker_cwXCT6",
         "buy_buttons_PxYBwc",
         "description_tAY3tB",
