@@ -363,6 +363,71 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_Upmcfd": {
+      "type": "tabs",
+      "blocks": {
+        "tab_maYPEN": {
+          "type": "tab",
+          "settings": {
+            "title": "Wie wird es angewendet?",
+            "content": "<p>Um eine optimale Anwendung zu gewährleisten, reinigen Sie Ihr Gesicht zunächst mit einem milden Reinigungsmittel. Tragen Sie eine kleine Menge des Balsams auf Ihr Gesicht auf und massieren Sie ihn sanft in kreisenden Bewegungen, bis er vollständig eingezogen ist. Verwenden Sie den Balsam morgens und abends, um sichtbare Ergebnisse zu erzielen. Er ist ideal für trockene, feuchtigkeitsarme Haut oder Haut, der es an Elastizität mangelt.</p>",
+            "page": ""
+          }
+        },
+        "tab_3EnWhA": {
+          "type": "tab",
+          "settings": {
+            "title": "Zutaten",
+            "content": "<p>ForceSkin ist eine minimalistische, aber hochwirksame Formel, die ausschließlich aus natürlichen Inhaltsstoffen besteht, die aufgrund ihrer außergewöhnlichen Wirkung auf die Haut ausgewählt wurden.Talg von grasgefütterten Rindern ist eine uralte Quelle reparierender Lipide und strafft und pflegt die Haut bis in die Tiefe. Vitamin E, ein starkes Antioxidans, hilft, der Hautalterung vorzubeugen, während Olivenöl die Haut weich macht, ihr Feuchtigkeit spendet und ihr Geschmeidigkeit und einen natürlichen Glanz verleiht.</p>",
+            "page": ""
+          }
+        },
+        "tab_YFM3mq": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_T4iTN4": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_CPwcNc": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_maYPEN",
+        "tab_3EnWhA",
+        "tab_YFM3mq",
+        "tab_T4iTN4",
+        "tab_CPwcNc"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -372,6 +437,7 @@
     "rich_text_83PNxN",
     "custom_liquid_HagcrV",
     "multi_column_rDgxpb",
-    "featured_product_bjX67h"
+    "featured_product_bjX67h",
+    "tabs_Upmcfd"
   ]
 }
