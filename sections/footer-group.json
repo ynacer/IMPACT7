@@ -107,9 +107,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Kontakt",
+            "content": "<p><strong>Kundenservice: </strong>contact@forceskin.shop</p><p><strong>Öffnungszeiten: </strong>Montag bis Freitag von 8 bis 13 Uhr und 14 bis 20 Uhr / Samstag und Sonntag von 10 bis 16 Uhr.</p>",
+            "enable_follow_on_shop": false
           }
         }
       },
