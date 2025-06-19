@@ -311,6 +311,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_YPjJ3p": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Flash_Sale_6.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "description_tAY3tB": {
           "type": "description",
           "settings": {
@@ -333,6 +341,7 @@
         "image_TnbHpk",
         "variant_picker_cwXCT6",
         "buy_buttons_PxYBwc",
+        "image_YPjJ3p",
         "description_tAY3tB",
         "liquid_hBTXRm"
       ],
