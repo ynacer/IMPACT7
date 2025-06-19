@@ -428,6 +428,96 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "multi_column_tNjpQN": {
+      "type": "multi-column",
+      "blocks": {
+        "item_HbJ76h": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_7.png",
+            "column_size": "3",
+            "title": "Vitamine E",
+            "heading_tag": "h4",
+            "content": "<p>Vitamin E, ein starkes Antioxidans, schützt die Haut vor freien Radikalen, die durch UV-Strahlen und Umweltverschmutzung entstehen. Es versorgt die Haut mit Feuchtigkeit, lindert Entzündungen, beschleunigt die Wundheilung und verbessert die Hautstruktur, sodass die Haut ebenmäßiger und weicher wird.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3VaQWU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_4.png",
+            "column_size": "3",
+            "title": "Rindertalg",
+            "heading_tag": "h4",
+            "content": "<p>Rindertalg ist ein natürliches Fett, das die natürlichen Öle der Haut nachahmt. Es hilft, die Haut tiefgreifend zu nähren, ihren Feuchtigkeitsgehalt wiederherzustellen und ihre Elastizität zu verbessern. Es ist besonders wirksam bei der Reparatur von trockener und geschädigter Haut und trägt zu einer weicheren und geschmeidigeren Haut bei.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wDjCf4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_5.png",
+            "column_size": "3",
+            "title": "Bienenwachs",
+            "heading_tag": "h4",
+            "content": "<p>Bienenwachs ist ein natürlicher Inhaltsstoff mit schützenden und beruhigenden Eigenschaften. Es bildet eine leichte Barriere auf der Haut, die hilft, Feuchtigkeit zu speichern und die Haut gleichzeitig atmen zu lassen. Sie ist reich an Vitamin A, fördert die Zellerneuerung und lindert Irritationen. Sie ist ideal, um die Haut vor dem Austrocknen zu schützen, sie geschmeidiger zu machen und ihre Widerstandskraft gegen äußere Einflüsse zu stärken.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yyQtk8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_6.png",
+            "column_size": "3",
+            "title": "Propolis",
+            "heading_tag": "h4",
+            "content": "<p>Propolis ist ein natürliches Harz, das von Bienen zum Schutz des Bienenstocks produziert wird. Es ist reich an Antioxidantien, Flavonoiden und Phenolsäuren und hat reinigende, reparierende und entzündungshemmende Eigenschaften. Auf die Haut aufgetragen hilft Propolis, Reizungen zu lindern, Rötungen zu reduzieren und die Regeneration des Gewebes zu fördern. Es ist ein wertvoller Inhaltsstoff, um eine klare, beruhigte und gestärkte Haut zu erhalten.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xPzdV4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_8.png",
+            "column_size": "3",
+            "title": "Olivenöl",
+            "heading_tag": "h4",
+            "content": "<p>Olivenöl ist ein natürlicher Schatz, der reich an essentiellen Fettsäuren und Antioxidantien ist, insbesondere an Vitamin E und Polyphenolen. Es dringt leicht in die Haut ein, nährt sie tiefgehend, macht sie geschmeidig und schützt sie vor vorzeitiger Hautalterung. Dank ihrer weichmachenden und entzündungshemmenden Eigenschaften hilft sie, trockene Haut zu reparieren, Irritationen zu lindern und die natürliche Ausstrahlung des Teints wiederherzustellen. Das Ergebnis ist eine geschmeidige, strahlende und perfekt mit Feuchtigkeit versorgte Haut.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_HbJ76h",
+        "item_3VaQWU",
+        "item_wDjCf4",
+        "item_yyQtk8",
+        "item_xPzdV4"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Klinisch getestete Inhaltsstoffe",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -438,6 +528,7 @@
     "custom_liquid_HagcrV",
     "multi_column_rDgxpb",
     "featured_product_bjX67h",
-    "tabs_Upmcfd"
+    "tabs_Upmcfd",
+    "multi_column_tNjpQN"
   ]
 }
