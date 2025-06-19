@@ -142,6 +142,211 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multi_column_rDgxpb": {
+      "type": "multi-column",
+      "blocks": {
+        "item_9W68z6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant_6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hUDP3z": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant_7.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DP9cLG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant_8.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TtdYmr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant_9.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KC8ApE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant_10.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Hfywzg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant_11.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_9W68z6",
+        "item_hUDP3z",
+        "item_DP9cLG",
+        "item_TtdYmr",
+        "item_KC8ApE",
+        "item_Hfywzg"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Sie sprechen am besten darüber",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_bjX67h": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_txAAWL": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_xFxnVY": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_gqJY34": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_NDxK3z": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_HThbcx": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_zUd9TE": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_tAY3tB": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_cwXCT6": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_giEHrc": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_PxYBwc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_yFf4T3": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_txAAWL",
+        "title_xFxnVY",
+        "badges_gqJY34",
+        "price_NDxK3z",
+        "rating_HThbcx",
+        "separator_zUd9TE",
+        "description_tAY3tB",
+        "variant_picker_cwXCT6",
+        "quantity_selector_giEHrc",
+        "buy_buttons_PxYBwc",
+        "pickup_availability_yFf4T3"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -149,6 +354,8 @@
     "logo_list_MAtznk",
     "image_with_text_overlay_mtcGba",
     "rich_text_83PNxN",
-    "custom_liquid_HagcrV"
+    "custom_liquid_HagcrV",
+    "multi_column_rDgxpb",
+    "featured_product_bjX67h"
   ]
 }
