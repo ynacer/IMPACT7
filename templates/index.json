@@ -518,6 +518,123 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_i3KnGx": {
+      "type": "faq",
+      "blocks": {
+        "item_kx4x6e": {
+          "type": "item",
+          "settings": {
+            "title": "Wie sollte ich den ForceSkin Balsam auftragen?",
+            "content": "<p>Für beste Ergebnisse tragen Sie eine kleine Menge des Balsams auf das saubere, trockene Gesicht auf und massieren Sie ihn sanft ein, bis er vollständig eingezogen ist. Verwenden Sie den Balsam je nach Bedarf morgens und/oder abends.</p>"
+          }
+        },
+        "item_tnwU74": {
+          "type": "item",
+          "settings": {
+            "title": "Was ist ForceSkin Balsam?",
+            "content": "<p>Der ForceSkin Balsam ist eine natürliche, leistungsstarke Pflege, die speziell für die besonderen Bedürfnisse der weiblichen Haut formuliert wurde. Dank edler Inhaltsstoffe wie Rindertalg aus Fettgewebe, Bienenwachs, Propolis, Honig, Olivenöl und Vitamin E hilft er, die Haut zu straffen, Falten zu mildern und den Teint wieder strahlen zu lassen. Seine zartschmelzende Textur zieht schnell ein, ohne einen Fettfilm zu hinterlassen. Sie ist ideal für Frauen, die sich eine glattere, straffere und sichtbar verjüngte Haut wünschen - ohne Kompromisse.</p>"
+          }
+        },
+        "item_cLnxFV": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_CakEVd": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_qBKMk9": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_L69c8R": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_dgnKC4": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_PMzbgw": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_CjWGw9": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_eyRFUP": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_3pL9k4": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_kx4x6e",
+        "item_tnwU74",
+        "item_cLnxFV",
+        "item_CakEVd",
+        "item_qBKMk9",
+        "item_L69c8R",
+        "item_dgnKC4",
+        "item_PMzbgw",
+        "item_CjWGw9",
+        "item_eyRFUP",
+        "item_3pL9k4"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -529,6 +646,7 @@
     "multi_column_rDgxpb",
     "featured_product_bjX67h",
     "tabs_Upmcfd",
-    "multi_column_tNjpQN"
+    "multi_column_tNjpQN",
+    "faq_i3KnGx"
   ]
 }
