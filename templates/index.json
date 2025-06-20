@@ -299,6 +299,12 @@
             "size_chart_page": ""
           }
         },
+        "kaching_bundles_app_block_wkWaxM": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "forceskin-baume-lift-glow"
+          }
+        },
         "buy_buttons_PxYBwc": {
           "type": "buy_buttons",
           "settings": {
@@ -338,6 +344,7 @@
         "image_4PHg7g",
         "image_TnbHpk",
         "variant_picker_cwXCT6",
+        "kaching_bundles_app_block_wkWaxM",
         "buy_buttons_PxYBwc",
         "image_YPjJ3p",
         "description_tAY3tB",
