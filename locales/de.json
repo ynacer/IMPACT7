@@ -423,5 +423,10 @@
         "other": "Es hat {{ count }} Bewertungen erhalten."
       }
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
+    }
   }
 }
