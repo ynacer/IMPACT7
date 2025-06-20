@@ -97,6 +97,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Copie_de_Copie_de_Template_section_benefice_2.png",
+        "mobile_image": "shopify://shop_images/Copie_de_Copie_de_Template_section_benefice_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -151,9 +152,9 @@
           "settings": {
             "image": "shopify://shop_images/Avant_6.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Gertrud",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Meine Haut brannte, besonders im Winter. Heute ist sie weich, ruhig und besänftigt. ForceSkin hat für mich alles verändert.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -164,9 +165,9 @@
           "settings": {
             "image": "shopify://shop_images/Avant_7.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Hildegard",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Ich fand mich im Spiegel fade ... Jetzt ist meine Haut klar und strahlend, sogar ohne Make-up. Es ist verblüffend.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -177,9 +178,9 @@
           "settings": {
             "image": "shopify://shop_images/Avant_8.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Brunhilde",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Meine Falten ließen mich traurig aussehen. Nach zwei Wochen ForceSkin hat sich mein Gesicht auf natürliche Weise gestrafft.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -190,9 +191,9 @@
           "settings": {
             "image": "shopify://shop_images/Avant_9.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Irmgard",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Ich hatte meine Straffheit verloren und sah müde aus. Heute ist mein Gesicht neu geformt und meine Augen sind wach.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -203,9 +204,9 @@
           "settings": {
             "image": "shopify://shop_images/Avant_10.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Waltraud",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Ich erkannte mich selbst nicht mehr. Heute ist mein Gesicht ausgeruht, strahlend und ich fühle mich wohler in meiner Haut.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -216,9 +217,9 @@
           "settings": {
             "image": "shopify://shop_images/Avant_11.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Erika",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Ich konnte sehen, wie mein Gesicht erschlaffte, besonders am Hals. ForceSkin hat meine Gesichtszüge sanft neu geformt.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -277,7 +278,6 @@
         "image_4PHg7g": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/scienza_pulita.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -285,7 +285,6 @@
         "image_TnbHpk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Flash_Sale_5.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -314,7 +313,6 @@
         "image_YPjJ3p": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Flash_Sale_6.png",
             "alignment": "start",
             "max_width": 500
           }
